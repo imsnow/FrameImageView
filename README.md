@@ -10,5 +10,5 @@ You can change this attributes:<br>
 <li>border_stroke - width of border</li>
 </ol>
 <p  align="center">
-<img src="/screensorts/Screenshot_2015-10-30-16-00-39.png" width="200px"/>
+<img src="/screenshots/Screenshot_2015-10-30-16-00-39.png" width="200px"/>
 </p>
